@@ -1,1 +1,1 @@
-alert('jjhtee');
+alert('salam');
